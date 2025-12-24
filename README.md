@@ -2,10 +2,8 @@
 
 <img width="4096" height="4096" alt="—Pngtree—medical symbol picture wall art_21286520" src="https://github.com/user-attachments/assets/341097a9-f7e0-41f3-a459-1d30ce78cdf8" />
 
-<img width="512" height="512" alt="stethoscope" src="https://github.com/user-attachments/assets/6cc22b98-0550-4828-afb1-d99641c55710" />
-
 ### Analysis Dashboard 
-[Patients Emergency Room Visit Report.pdf](https://github.com/user-attachments/files/24333086/Patients.Emergency.Room.Visit.Report.pdf)
+### [Patients Emergency Room Visit Report.pdf] (https://github.com/user-attachments/files/24333086/Patients.Emergency.Room.Visit.Report.pdf)
 
 
 📊 This Power BI dashboard provides a comprehensive analysis of patient visits to the Emergency Room across multiple dimensions: 
